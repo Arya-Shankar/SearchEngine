@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Search Page</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="form">
+    <form method="POST">
+      {{ form.hidden_tag() }}
+      <label for="{{ form.search.id }}">{{ form.search.label }}</label>
+      {{ form.search() }}
+      {{ form.submit() }}
+    </form>
+  </div>
+  <div class="results">
+    {% for result in results %}
+    <div class="result">
+      <h3>Q: {{ result['Title'] }}</h3>
+      <p>
+        <a href="{{ result['Link'] }}" target="_blank">{{ result['Link'] }}</a>
+      </p>
+      <p>Score: {{ result['Score'] }}</p>
+    </div>
+    {% endfor %}
+  </div>
+</body>
+</html>
+
+
+<!-- <!DOCTYPE html>
+<html>
+  <head>
+    <title>Search Page</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="form">
+      <form method="POST">
+        {{ form.hidden_tag() }} {{ form.search.label }} {{ form.search() }} {{
+        form.submit() }}
+      </form>
+    </div>
+    <div>
+      {% for result in results %}
+      <p>Q: {{ result['Title']}}</p>
+      <a href="{{ result['Question Link'] }}">{{ result['Link'] }}</a>
+      <p>Score: {{ result['Score'] }}</p>
+      {% endfor %}
+    </div>
+  </body>
+</html> -->

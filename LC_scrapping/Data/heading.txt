@@ -1,0 +1,2130 @@
+347. Top K Frequent Elements
+1314. Matrix Block Sum
+2045. Second Minimum Time to Reach Destination
+2659. Make Array Empty
+2447. Number of Subarrays With GCD Equal to K
+134. Gas Station
+306. Additive Number
+1000. Minimum Cost to Merge Stones
+1204. Last Person to Fit in the Bus
+2723. Add Two Promises
+2315. Count Asterisks
+2406. Divide Intervals Into Minimum Number of Groups
+2019. The Score of Students Solving Math Expression
+1502. Can Make Arithmetic Progression From Sequence
+520. Detect Capital
+2343. Query Kth Smallest Trimmed Number
+455. Assign Cookies
+1080. Insufficient Nodes in Root to Leaf Paths
+540. Single Element in a Sorted Array
+63. Unique Paths II
+78. Subsets
+2487. Remove Nodes From Linked List
+496. Next Greater Element I
+731. My Calendar II
+705. Design HashSet
+398. Random Pick Index
+1177. Can Make Palindrome from Substring
+160. Intersection of Two Linked Lists
+1210. Minimum Moves to Reach Target with Rotations
+717. 1-bit and 2-bit Characters
+2614. Prime In Diagonal
+2114. Maximum Number of Words Found in Sentences
+278. First Bad Version
+1292. Maximum Side Length of a Square with Sum Less than or Equal to Threshold
+1367. Linked List in Binary Tree
+2369. Check if There is a Valid Partition For The Array
+2190. Most Frequent Number Following Key In an Array
+94. Binary Tree Inorder Traversal
+92. Reverse Linked List II
+2673. Make Costs of Paths Equal in a Binary Tree
+341. Flatten Nested List Iterator
+2586. Count the Number of Vowel Strings in Range
+2400. Number of Ways to Reach a Position After Exactly k Steps
+1672. Richest Customer Wealth
+570. Managers with at Least 5 Direct Reports
+1824. Minimum Sideway Jumps
+991. Broken Calculator
+222. Count Complete Tree Nodes
+1094. Car Pooling
+1326. Minimum Number of Taps to Open to Water a Garden
+942. DI String Match
+1353. Maximum Number of Events That Can Be Attended
+2322. Minimum Score After Removals on a Tree
+993. Cousins in Binary Tree
+936. Stamping The Sequence
+1415. The k-th Lexicographical String of All Happy Strings of Length n
+2626. Array Reduce Transformation
+1681. Minimum Incompatibility
+1941. Check if All Characters Have Equal Number of Occurrences
+2249. Count Lattice Points Inside a Circle
+2452. Words Within Two Edits of Dictionary
+212. Word Search II
+822. Card Flipping Game
+787. Cheapest Flights Within K Stops
+1961. Check If String Is a Prefix of Array
+966. Vowel Spellchecker
+764. Largest Plus Sign
+806. Number of Lines To Write String
+798. Smallest Rotation with Highest Score
+30. Substring with Concatenation of All Words
+1775. Equal Sum Arrays With Minimum Number of Operations
+1161. Maximum Level Sum of a Binary Tree
+492. Construct the Rectangle
+789. Escape The Ghosts
+2185. Counting Words With a Given Prefix
+1250. Check If It Is a Good Array
+1497. Check If Array Pairs Are Divisible by k
+2200. Find All K-Distant Indices in an Array
+699. Falling Squares
+1053. Previous Permutation With One Swap
+762. Prime Number of Set Bits in Binary Representation
+2482. Difference Between Ones and Zeros in Row and Column
+211. Design Add and Search Words Data Structure
+1290. Convert Binary Number in a Linked List to Integer
+2319. Check if Matrix Is X-Matrix
+79. Word Search
+2032. Two Out of Three
+1206. Design Skiplist
+2653. Sliding Subarray Beauty
+2645. Minimum Additions to Make Valid String
+1172. Dinner Plate Stacks
+328. Odd Even Linked List
+2127. Maximum Employees to Be Invited to a Meeting
+910. Smallest Range II
+2287. Rearrange Characters to Make Target String
+2707. Extra Characters in a String
+1977. Number of Ways to Separate Numbers
+2348. Number of Zero-Filled Subarrays
+847. Shortest Path Visiting All Nodes
+1307. Verbal Arithmetic Puzzle
+1436. Destination City
+1679. Max Number of K-Sum Pairs
+2677. Chunk Array
+1525. Number of Good Ways to Split a String
+946. Validate Stack Sequences
+2493. Divide Nodes Into the Maximum Number of Groups
+456. 132 Pattern
+2265. Count Nodes Equal to Average of Subtree
+493. Reverse Pairs
+935. Knight Dialer
+2075. Decode the Slanted Ciphertext
+336. Palindrome Pairs
+473. Matchsticks to Square
+5. Longest Palindromic Substring
+2101. Detonate the Maximum Bombs
+1441. Build an Array With Stack Operations
+640. Solve the Equation
+1780. Check if Number is a Sum of Powers of Three
+221. Maximal Square
+617. Merge Two Binary Trees
+480. Sliding Window Median
+437. Path Sum III
+2110. Number of Smooth Descent Periods of a Stock
+500. Keyboard Row
+2461. Maximum Sum of Distinct Subarrays With Length K
+602. Friend Requests II: Who Has the Most Friends
+292. Nim Game
+1291. Sequential Digits
+2610. Convert an Array Into a 2D Array With Conditions
+620. Not Boring Movies
+704. Binary Search
+2660. Determine the Winner of a Bowling Game
+1833. Maximum Ice Cream Bars
+829. Consecutive Numbers Sum
+1579. Remove Max Number of Edges to Keep Graph Fully Traversable
+985. Sum of Even Numbers After Queries
+1446. Consecutive Characters
+154. Find Minimum in Rotated Sorted Array II
+1201. Ugly Number III
+1741. Find Total Time Spent by Each Employee
+1388. Pizza With 3n Slices
+72. Edit Distance
+210. Course Schedule II
+1928. Minimum Cost to Reach Destination in Time
+1015. Smallest Integer Divisible by K
+11. Container With Most Water
+2697. Lexicographically Smallest Palindrome
+730. Count Different Palindromic Subsequences
+952. Largest Component Size by Common Factor
+686. Repeated String Match
+2423. Remove Letter To Equalize Frequency
+526. Beautiful Arrangement
+168. Excel Sheet Column Title
+262. Trips and Users
+447. Number of Boomerangs
+558. Logical OR of Two Binary Grids Represented as Quad-Trees
+1266. Minimum Time Visiting All Points
+1383. Maximum Performance of a Team
+150. Evaluate Reverse Polish Notation
+2683. Neighboring Bitwise XOR
+297. Serialize and Deserialize Binary Tree
+1881. Maximum Value after Insertion
+1582. Special Positions in a Binary Matrix
+2497. Maximum Star Sum of a Graph
+2568. Minimum Impossible OR
+2722. Join Two Arrays by ID
+1955. Count Number of Special Subsequences
+352. Data Stream as Disjoint Intervals
+1164. Product Price at a Given Date
+932. Beautiful Array
+1870. Minimum Speed to Arrive on Time
+628. Maximum Product of Three Numbers
+2739. Total Distance Traveled
+728. Self Dividing Numbers
+858. Mirror Reflection
+2620. Counter
+385. Mini Parser
+51. N-Queens
+2639. Find the Width of Columns of a Grid
+287. Find the Duplicate Number
+851. Loud and Rich
+1573. Number of Ways to Split a String
+26. Remove Duplicates from Sorted Array
+1361. Validate Binary Tree Nodes
+145. Binary Tree Postorder Traversal
+1920. Build Array from Permutation
+2167. Minimum Time to Remove All Cars Containing Illegal Goods
+2736. Maximum Sum Queries
+2412. Minimum Money Required Before Transactions
+1410. HTML Entity Parser
+1027. Longest Arithmetic Subsequence
+2086. Minimum Number of Food Buckets to Feed the Hamsters
+2368. Reachable Nodes With Restrictions
+2576. Find the Maximum Number of Marked Indices
+2383. Minimum Hours of Training to Win a Competition
+2578. Split With Minimum Sum
+2212. Maximum Points in an Archery Competition
+1091. Shortest Path in Binary Matrix
+476. Number Complement
+410. Split Array Largest Sum
+130. Surrounded Regions
+1577. Number of Ways Where Square of Number Is Equal to Product of Two Numbers
+1386. Cinema Seat Allocation
+706. Design HashMap
+82. Remove Duplicates from Sorted List II
+2201. Count Artifacts That Can Be Extracted
+440. K-th Smallest in Lexicographical Order
+120. Triangle
+2079. Watering Plants
+445. Add Two Numbers II
+21. Merge Two Sorted Lists
+2148. Count Elements With Strictly Smaller and Greater Elements
+1773. Count Items Matching a Rule
+2027. Minimum Moves to Convert String
+2053. Kth Distinct String in an Array
+2269. Find the K-Beauty of a Number
+754. Reach a Number
+1845. Seat Reservation Manager
+2331. Evaluate Boolean Binary Tree
+98. Validate Binary Search Tree
+131. Palindrome Partitioning
+180. Consecutive Numbers
+1302. Deepest Leaves Sum
+1848. Minimum Distance to the Target Element
+442. Find All Duplicates in an Array
+600. Non-negative Integers without Consecutive Ones
+1684. Count the Number of Consistent Strings
+2376. Count Special Integers
+509. Fibonacci Number
+1475. Final Prices With a Special Discount in a Shop
+978. Longest Turbulent Subarray
+844. Backspace String Compare
+839. Similar String Groups
+1352. Product of the Last K Numbers
+1896. Minimum Cost to Change the Final Value of Expression
+1982. Find Array Given Subset Sums
+1944. Number of Visible People in a Queue
+2260. Minimum Consecutive Cards to Pick Up
+1184. Distance Between Bus Stops
+1396. Design Underground System
+1952. Three Divisors
+1882. Process Tasks Using Servers
+835. Image Overlap
+2682. Find the Losers of the Circular Game
+1030. Matrix Cells in Distance Order
+2013. Detect Squares
+2099. Find Subsequence of Length K With the Largest Sum
+931. Minimum Falling Path Sum
+225. Implement Stack using Queues
+2271. Maximum White Tiles Covered by a Carpet
+2488. Count Subarrays With Median K
+1808. Maximize Number of Nice Divisors
+1339. Maximum Product of Splitted Binary Tree
+725. Split Linked List in Parts
+2288. Apply Discount to Prices
+1984. Minimum Difference Between Highest and Lowest of K Scores
+1079. Letter Tile Possibilities
+765. Couples Holding Hands
+405. Convert a Number to Hexadecimal
+1360. Number of Days Between Two Dates
+9. Palindrome Number
+2259. Remove Digit From Number to Maximize Result
+3. Longest Substring Without Repeating Characters
+971. Flip Binary Tree To Match Preorder Traversal
+140. Word Break II
+841. Keys and Rooms
+1552. Magnetic Force Between Two Balls
+1448. Count Good Nodes in Binary Tree
+32. Longest Valid Parentheses
+1850. Minimum Adjacent Swaps to Reach the Kth Smallest Number
+1191. K-Concatenation Maximum Sum
+2360. Longest Cycle in a Graph
+1045. Customers Who Bought All Products
+1897. Redistribute Characters to Make All Strings Equal
+1678. Goal Parser Interpretation
+1011. Capacity To Ship Packages Within D Days
+1016. Binary String With Substrings Representing 1 To N
+830. Positions of Large Groups
+229. Majority Element II
+460. LFU Cache
+151. Reverse Words in a String
+191. Number of 1 Bits
+2115. Find All Possible Recipes from Given Supplies
+976. Largest Perimeter Triangle
+1899. Merge Triplets to Form Target Triplet
+1782. Count Pairs Of Nodes
+303. Range Sum Query - Immutable
+2164. Sort Even and Odd Indices Independently
+40. Combination Sum II
+279. Perfect Squares
+1686. Stone Game VI
+23. Merge k Sorted Lists
+783. Minimum Distance Between BST Nodes
+1823. Find the Winner of the Circular Game
+958. Check Completeness of a Binary Tree
+28. Find the Index of the First Occurrence in a String
+50. Pow(x, n)
+790. Domino and Tromino Tiling
+1044. Longest Duplicate Substring
+2233. Maximum Product After K Increments
+1732. Find the Highest Altitude
+1281. Subtract the Product and Sum of Digits of an Integer
+137. Single Number II
+183. Customers Who Never Order
+433. Minimum Genetic Mutation
+2457. Minimum Addition to Make Integer Beautiful
+508. Most Frequent Subtree Sum
+1051. Height Checker
+2275. Largest Combination With Bitwise AND Greater Than Zero
+1473. Paint House III
+529. Minesweeper
+2196. Create Binary Tree From Descriptions
+64. Minimum Path Sum
+1049. Last Stone Weight II
+1262. Greatest Sum Divisible by Three
+947. Most Stones Removed with Same Row or Column
+934. Shortest Bridge
+741. Cherry Pickup
+1704. Determine if String Halves Are Alike
+1713. Minimum Operations to Make a Subsequence
+2351. First Letter to Appear Twice
+2073. Time Needed to Buy Tickets
+322. Coin Change
+344. Reverse String
+1433. Check If a String Can Break Another String
+2375. Construct Smallest Number From DI String
+1491. Average Salary Excluding the Minimum and Maximum Salary
+2178. Maximum Split of Positive Even Integers
+2718. Sum of Matrix After Queries
+2719. Count of Integers
+1768. Merge Strings Alternately
+412. Fizz Buzz
+2725. Interval Cancellation
+392. Is Subsequence
+1737. Change Minimum Characters to Satisfy One of Three Conditions
+2131. Longest Palindrome by Concatenating Two Letter Words
+2699. Modify Graph Edge Weights
+2222. Number of Ways to Select Buildings
+825. Friends Of Appropriate Ages
+2017. Grid Game
+2043. Simple Bank System
+2182. Construct String With Repeat Limit
+427. Construct Quad Tree
+1420. Build Array Where You Can Find The Maximum Exactly K Comparisons
+1779. Find Nearest Point That Has the Same X or Y Coordinate
+2309. Greatest English Letter in Upper and Lower Case
+504. Base 7
+1332. Remove Palindromic Subsequences
+2227. Encrypt and Decrypt Strings
+416. Partition Equal Subset Sum
+176. Second Highest Salary
+56. Merge Intervals
+1431. Kids With the Greatest Number of Candies
+1758. Minimum Changes To Make Alternating Binary String
+2040. Kth Smallest Product of Two Sorted Arrays
+693. Binary Number with Alternating Bits
+2141. Maximum Running Time of N Computers
+220. Contains Duplicate III
+766. Toeplitz Matrix
+732. My Calendar III
+2496. Maximum Value of a String in an Array
+639. Decode Ways II
+881. Boats to Save People
+1029. Two City Scheduling
+2490. Circular Sentence
+855. Exam Room
+2023. Number of Pairs of Strings With Concatenation Equal to Target
+2305. Fair Distribution of Cookies
+491. Non-decreasing Subsequences
+1975. Maximum Matrix Sum
+1203. Sort Items by Groups Respecting Dependencies
+395. Longest Substring with At Least K Repeating Characters
+2211. Count Collisions on a Road
+1021. Remove Outermost Parentheses
+470. Implement Rand10() Using Rand7()
+1819. Number of Different Subsequences GCDs
+779. K-th Symbol in Grammar
+1991. Find the Middle Index in Array
+2316. Count Unreachable Pairs of Nodes in an Undirected Graph
+1776. Car Fleet II
+2195. Append K Integers With Minimal Sum
+2024. Maximize the Confusion of an Exam
+581. Shortest Unsorted Continuous Subarray
+1784. Check if Binary String Has at Most One Segment of Ones
+2353. Design a Food Rating System
+959. Regions Cut By Slashes
+979. Distribute Coins in Binary Tree
+2327. Number of People Aware of a Secret
+2478. Number of Beautiful Partitions
+2003. Smallest Missing Genetic Value in Each Subtree
+2139. Minimum Moves to Reach Target Score
+922. Sort Array By Parity II
+593. Valid Square
+2694. Event Emitter
+837. New 21 Game
+2623. Memoize
+81. Search in Rotated Sorted Array II
+1193. Monthly Transactions I
+378. Kth Smallest Element in a Sorted Matrix
+918. Maximum Sum Circular Subarray
+1389. Create Target Array in the Given Order
+468. Validate IP Address
+2662. Minimum Cost of a Path With Special Roads
+1844. Replace All Digits with Characters
+1728. Cat and Mouse II
+1028. Recover a Tree From Preorder Traversal
+2085. Count Common Words With One Occurrence
+2080. Range Frequency Queries
+2641. Cousins in Binary Tree II
+2491. Divide Players Into Teams of Equal Skill
+1849. Splitting a String Into Descending Consecutive Values
+1754. Largest Merge Of Two Strings
+871. Minimum Number of Refueling Stops
+1461. Check If a String Contains All Binary Codes of Size K
+2344. Minimum Deletions to Make Array Divisible
+2136. Earliest Possible Day of Full Bloom
+1545. Find Kth Bit in Nth Binary String
+1411. Number of Ways to Paint N × 3 Grid
+1387. Sort Integers by The Power Value
+1334. Find the City With the Smallest Number of Neighbors at a Threshold Distance
+605. Can Place Flowers
+450. Delete Node in a BST
+36. Valid Sudoku
+1542. Find Longest Awesome Substring
+2120. Execution of All Suffix Instructions Staying in a Grid
+2399. Check Distances Between Same Letters
+1348. Tweet Counts Per Frequency
+707. Design Linked List
+310. Minimum Height Trees
+2047. Number of Valid Words in a Sentence
+752. Open the Lock
+463. Island Perimeter
+948. Bag of Tokens
+514. Freedom Trail
+268. Missing Number
+834. Sum of Distances in Tree
+1513. Number of Substrings With Only 1s
+41. First Missing Positive
+7. Reverse Integer
+1786. Number of Restricted Paths From First to Last Node
+2648. Generate Fibonacci Sequence
+1806. Minimum Number of Operations to Reinitialize a Permutation
+537. Complex Number Multiplication
+1986. Minimum Number of Work Sessions to Finish the Tasks
+1252. Cells with Odd Values in a Matrix
+2382. Maximum Segment Sum After Removals
+2615. Sum of Distances
+396. Rotate Function
+1911. Maximum Alternating Subsequence Sum
+1311. Get Watched Videos by Your Friends
+1345. Jump Game IV
+312. Burst Balloons
+2486. Append Characters to String to Make Subsequence
+466. Count The Repetitions
+318. Maximum Product of Word Lengths
+2449. Minimum Number of Operations to Make Arrays Similar
+1370. Increasing Decreasing String
+675. Cut Off Trees for Golf Event
+1526. Minimum Number of Increments on Subarrays to Form a Target Array
+219. Contains Duplicate II
+2264. Largest 3-Same-Digit Number in String
+714. Best Time to Buy and Sell Stock with Transaction Fee
+532. K-diff Pairs in an Array
+363. Max Sum of Rectangle No Larger Than K
+2124. Check if All A's Appears Before All B's
+1505. Minimum Possible Integer After at Most K Adjacent Swaps On Digits
+2122. Recover the Original Array
+1710. Maximum Units on a Truck
+937. Reorder Data in Log Files
+2727. Is Object Empty
+843. Guess the Word
+2283. Check if Number Has Equal Digit Count and Digit Value
+188. Best Time to Buy and Sell Stock IV
+2499. Minimum Total Cost to Make Arrays Unequal
+1157. Online Majority Element In Subarray
+2390. Removing Stars From a String
+24. Swap Nodes in Pairs
+1335. Minimum Difficulty of a Job Schedule
+1278. Palindrome Partitioning III
+97. Interleaving String
+1072. Flip Columns For Maximum Number of Equal Rows
+162. Find Peak Element
+2567. Minimum Score by Changing Two Elements
+2401. Longest Nice Subarray
+2225. Find Players With Zero or One Losses
+735. Asteroid Collision
+69. Sqrt(x)
+961. N-Repeated Element in Size 2N Array
+2358. Maximum Number of Groups Entering a Competition
+2619. Array Prototype Last
+372. Super Pow
+451. Sort Characters By Frequency
+665. Non-decreasing Array
+2384. Largest Palindromic Number
+1043. Partition Array for Maximum Sum
+1793. Maximum Score of a Good Subarray
+679. 24 Game
+2580. Count Ways to Group Overlapping Ranges
+2281. Sum of Total Strength of Wizards
+2207. Maximize Number of Subsequences in a String
+2134. Minimum Swaps to Group All 1's Together II
+482. License Key Formatting
+1658. Minimum Operations to Reduce X to Zero
+1840. Maximum Building Height
+1333. Filter Restaurants by Vegan-Friendly, Price and Distance
+842. Split Array into Fibonacci Sequence
+685. Redundant Connection II
+1267. Count Servers that Communicate
+233. Number of Digit One
+371. Sum of Two Integers
+1512. Number of Good Pairs
+367. Valid Perfect Square
+1969. Minimum Non-Zero Product of the Array Elements
+1178. Number of Valid Words for Each Puzzle
+633. Sum of Square Numbers
+1498. Number of Subsequences That Satisfy the Given Sum Condition
+1418. Display Table of Food Orders in a Restaurant
+560. Subarray Sum Equals K
+2244. Minimum Rounds to Complete All Tasks
+2070. Most Beautiful Item for Each Query
+177. Nth Highest Salary
+1068. Product Sales Analysis I
+446. Arithmetic Slices II - Subsequence
+316. Remove Duplicate Letters
+1467. Probability of a Two Boxes Having The Same Number of Distinct Balls
+2471. Minimum Number of Operations to Sort a Binary Tree by Level
+2734. Lexicographically Smallest String After Substring Operation
+1560. Most Visited Sector in a Circular Track
+502. IPO
+924. Minimize Malware Spread
+399. Evaluate Division
+2280. Minimum Lines to Represent a Line Chart
+1531. String Compression II
+673. Number of Longest Increasing Subsequence
+1759. Count Number of Homogenous Substrings
+88. Merge Sorted Array
+2695. Array Wrapper
+1585. Check If String Is Transformable With Substring Sort Operations
+1797. Design Authentication Manager
+1047. Remove All Adjacent Duplicates In String
+870. Advantage Shuffle
+1524. Number of Sub-arrays With Odd Sum
+1830. Minimum Number of Operations to Make String Sorted
+724. Find Pivot Index
+1976. Number of Ways to Arrive at Destination
+1175. Prime Arrangements
+817. Linked List Components
+16. 3Sum Closest
+813. Largest Sum of Averages
+2058. Find the Minimum and Maximum Number of Nodes Between Critical Points
+1680. Concatenation of Consecutive Binary Numbers
+659. Split Array into Consecutive Subsequences
+2602. Minimum Operations to Make All Array Elements Equal
+1529. Minimum Suffix Flips
+2129. Capitalize the Title
+712. Minimum ASCII Delete Sum for Two Strings
+2446. Determine if Two Events Have Conflict
+2216. Minimum Deletions to Make Array Beautiful
+566. Reshape the Matrix
+658. Find K Closest Elements
+274. H-Index
+575. Distribute Candies
+2710. Remove Trailing Zeros From a String
+258. Add Digits
+1070. Product Sales Analysis III
+1008. Construct Binary Search Tree from Preorder Traversal
+86. Partition List
+721. Accounts Merge
+2310. Sum of Numbers With Units Digit K
+1300. Sum of Mutated Array Closest to Target
+1463. Cherry Pickup II
+768. Max Chunks To Make Sorted II
+1037. Valid Boomerang
+1880. Check if Word Equals Summation of Two Words
+997. Find the Town Judge
+921. Minimum Add to Make Parentheses Valid
+2666. Allow One Function Call
+2109. Adding Spaces to a String
+738. Monotone Increasing Digits
+1026. Maximum Difference Between Node and Ancestor
+2618. Check if Object Instance of Class
+1739. Building Boxes
+148. Sort List
+47. Permutations II
+77. Combinations
+503. Next Greater Element II
+319. Bulb Switcher
+1220. Count Vowels Permutation
+2407. Longest Increasing Subsequence II
+645. Set Mismatch
+519. Random Flip Matrix
+1546. Maximum Number of Non-Overlapping Subarrays With Sum Equals Target
+2724. Sort By
+199. Binary Tree Right Side View
+203. Remove Linked List Elements
+2405. Optimal Partition of String
+1095. Find in Mountain Array
+386. Lexicographical Numbers
+876. Middle of the Linked List
+1340. Jump Game V
+1829. Maximum XOR for Each Query
+2467. Most Profitable Path in a Tree
+2284. Sender With Largest Word Count
+1803. Count Pairs With XOR in a Range
+93. Restore IP Addresses
+1472. Design Browser History
+1442. Count Triplets That Can Form Two Arrays of Equal XOR
+68. Text Justification
+688. Knight Probability in Chessboard
+2616. Minimize the Maximum Difference of Pairs
+1656. Design an Ordered Stream
+153. Find Minimum in Rotated Sorted Array
+1743. Restore the Array From Adjacent Pairs
+1354. Construct Target Array With Multiple Sums
+173. Binary Search Tree Iterator
+809. Expressive Words
+164. Maximum Gap
+143. Reorder List
+2582. Pass the Pillow
+118. Pascal's Triangle
+874. Walking Robot Simulation
+939. Minimum Area Rectangle
+740. Delete and Earn
+2716. Minimize String Length
+404. Sum of Left Leaves
+1189. Maximum Number of Balloons
+2741. Special Permutations
+338. Counting Bits
+2609. Find the Longest Balanced Substring of a Binary String
+448. Find All Numbers Disappeared in an Array
+2477. Minimum Fuel Cost to Report to the Capital
+1669. Merge In Between Linked Lists
+1995. Count Special Quadruplets
+680. Valid Palindrome II
+2646. Minimize the Total Price of the Trips
+1720. Decode XORed Array
+2428. Maximum Sum of an Hourglass
+2192. All Ancestors of a Node in a Directed Acyclic Graph
+2437. Number of Valid Clock Times
+1729. Find Followers Count
+902. Numbers At Most N Given Digit Set
+2171. Removing Minimum Number of Magic Beans
+999. Available Captures for Rook
+2657. Find the Prefix Common Array of Two Arrays
+103. Binary Tree Zigzag Level Order Traversal
+1701. Average Waiting Time
+846. Hand of Straights
+1438. Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit
+2326. Spiral Matrix IV
+376. Wiggle Subsequence
+1864. Minimum Number of Swaps to Make the Binary String Alternating
+584. Find Customer Referee
+2404. Most Frequent Even Element
+2654. Minimum Number of Operations to Make All Array Elements Equal to 1
+1813. Sentence Similarity III
+2325. Decode the Message
+224. Basic Calculator
+1683. Invalid Tweets
+1685. Sum of Absolute Differences in a Sorted Array
+1318. Minimum Flips to Make a OR b Equal to c
+1907. Count Salary Categories
+1489. Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree
+2094. Finding 3-Digit Even Numbers
+653. Two Sum IV - Input is a BST
+804. Unique Morse Code Words
+784. Letter Case Permutation
+200. Number of Islands
+43. Multiply Strings
+2154. Keep Multiplying Found Values by Two
+406. Queue Reconstruction by Height
+2652. Sum Multiples
+1373. Maximum Sum BST in Binary Tree
+337. House Robber III
+377. Combination Sum IV
+1927. Sum Game
+1865. Finding Pairs With a Certain Sum
+2746. Decremental String Concatenation
+1007. Minimum Domino Rotations For Equal Row
+1515. Best Position for a Service Centre
+45. Jump Game II
+1888. Minimum Number of Flips to Make the Binary String Alternating
+2333. Minimum Sum of Squared Difference
+1349. Maximum Students Taking Exam
+2191. Sort the Jumbled Numbers
+1914. Cyclically Rotating a Grid
+13. Roman to Integer
+1378. Replace Employee ID With The Unique Identifier
+1407. Top Travellers
+1550. Three Consecutive Odds
+2278. Percentage of Letter in String
+1827. Minimum Operations to Make the Array Increasing
+1402. Reducing Dishes
+2708. Maximum Strength of a Group
+2223. Sum of Scores of Built Strings
+1476. Subrectangle Queries
+543. Diameter of Binary Tree
+691. Stickers to Spell Word
+884. Uncommon Words from Two Sentences
+1705. Maximum Number of Eaten Apples
+973. K Closest Points to Origin
+1535. Find the Winner of an Array Game
+559. Maximum Depth of N-ary Tree
+1394. Find Lucky Integer in an Array
+449. Serialize and Deserialize BST
+1507. Reformat Date
+105. Construct Binary Tree from Preorder and Inorder Traversal
+238. Product of Array Except Self
+1895. Largest Magic Square
+1964. Find the Longest Valid Obstacle Course at Each Position
+390. Elimination Game
+2562. Find the Array Concatenation Value
+301. Remove Invalid Parentheses
+1711. Count Good Meals
+1671. Minimum Number of Removals to Make Mountain Array
+126. Word Ladder II
+820. Short Encoding of Words
+407. Trapping Rain Water II
+627. Swap Salary
+464. Can I Win
+1755. Closest Subsequence Sum
+2650. Design Cancellable Function
+1493. Longest Subarray of 1's After Deleting One Element
+718. Maximum Length of Repeated Subarray
+1958. Check if Move is Legal
+497. Random Point in Non-overlapping Rectangles
+1653. Minimum Deletions to Make String Balanced
+2392. Build a Matrix With Conditions
+1405. Longest Happy String
+2060. Check if an Original String Exists Given Two Encoded Strings
+2300. Successful Pairs of Spells and Potions
+309. Best Time to Buy and Sell Stock with Cooldown
+2149. Rearrange Array Elements by Sign
+1202. Smallest String With Swaps
+2144. Minimum Cost of Buying Candies With Discount
+2492. Minimum Score of a Path Between Two Cities
+563. Binary Tree Tilt
+443. String Compression
+2179. Count Good Triplets in an Array
+73. Set Matrix Zeroes
+52. N-Queens II
+2440. Create Components With Same Value
+1219. Path with Maximum Gold
+1753. Maximum Score From Removing Stones
+1926. Nearest Exit from Entrance in Maze
+1457. Pseudo-Palindromic Paths in a Binary Tree
+1595. Minimum Cost to Connect Two Groups of Points
+552. Student Attendance Record II
+393. UTF-8 Validation
+1688. Count of Matches in Tournament
+1357. Apply Discount Every n Orders
+1033. Moving Stones Until Consecutive
+1465. Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts
+1443. Minimum Time to Collect All Apples in a Tree
+1351. Count Negative Numbers in a Sorted Matrix
+420. Strong Password Checker
+2157. Groups of Strings
+636. Exclusive Time of Functions
+1854. Maximum Population Year
+586. Customer Placing the Largest Number of Orders
+2433. Find The Original Array of Prefix Xor
+1323. Maximum 69 Number
+838. Push Dominoes
+263. Ugly Number
+977. Squares of a Sorted Array
+2581. Count Number of Possible Root Nodes
+626. Exchange Seats
+2248. Intersection of Multiple Arrays
+374. Guess Number Higher or Lower
+1886. Determine Whether Matrix Can Be Obtained By Rotation
+2220. Minimum Bit Flips to Convert Number
+1578. Minimum Time to Make Rope Colorful
+166. Fraction to Recurring Decimal
+682. Baseball Game
+2048. Next Greater Numerically Balanced Number
+1834. Single-Threaded CPU
+2500. Delete Greatest Value in Each Row
+2349. Design a Number Container System
+1416. Restore The Array
+141. Linked List Cycle
+2454. Next Greater Element IV
+2726. Calculator with Method Chaining
+1013. Partition Array Into Three Parts With Equal Sum
+2242. Maximum Score of a Node Sequence
+2561. Rearranging Fruits
+2108. Find First Palindromic String in the Array
+2665. Counter II
+1481. Least Number of Unique Integers after K Removals
+2625. Flatten Deeply Nested Array
+890. Find and Replace Pattern
+124. Binary Tree Maximum Path Sum
+391. Perfect Rectangle
+1458. Max Dot Product of Two Subsequences
+1480. Running Sum of 1d Array
+102. Binary Tree Level Order Traversal
+1703. Minimum Adjacent Swaps for K Consecutive Ones
+2102. Sequentially Ordinal Rank Tracker
+703. Kth Largest Element in a Stream
+1563. Stone Game V
+1663. Smallest String With A Given Numeric Value
+1366. Rank Teams by Votes
+956. Tallest Billboard
+733. Flood Fill
+933. Number of Recent Calls
+2009. Minimum Number of Operations to Make Array Continuous
+1179. Reformat Department Table
+1723. Find Minimum Time to Finish All Jobs
+601. Human Traffic of Stadium
+2470. Number of Subarrays With LCM Equal to K
+17. Letter Combinations of a Phone Number
+1424. Diagonal Traverse II
+655. Print Binary Tree
+48. Rotate Image
+452. Minimum Number of Arrows to Burst Balloons
+927. Three Equal Parts
+12. Integer to Roman
+459. Repeated Substring Pattern
+1234. Replace the Substring for Balanced String
+1750. Minimum Length of String After Deleting Similar Ends
+2088. Count Fertile Pyramids in a Land
+380. Insert Delete GetRandom O(1)
+1422. Maximum Score After Splitting a String
+1381. Design a Stack With Increment Operation
+891. Sum of Subsequence Widths
+1748. Sum of Unique Elements
+953. Verifying an Alien Dictionary
+61. Rotate List
+1675. Minimize Deviation in Array
+2640. Find the Score of All Prefixes of an Array
+2649. Nested Array Generator
+414. Third Maximum Number
+1304. Find N Unique Integers Sum up to Zero
+667. Beautiful Arrangement II
+643. Maximum Average Subarray I
+38. Count and Say
+2732. Find a Good Subset of the Matrix
+1791. Find Center of Star Graph
+1347. Minimum Number of Steps to Make Two Strings Anagram
+1390. Four Divisors
+1674. Minimum Moves to Make Array Complementary
+1227. Airplane Seat Assignment Probability
+619. Biggest Single Number
+2729. Check if The Number is Fascinating
+1338. Reduce Array Size to The Half
+811. Subdomain Visit Count
+423. Reconstruct Original Digits from English
+1721. Swapping Nodes in a Linked List
+394. Decode String
+2380. Time Needed to Rearrange a Binary String
+1283. Find the Smallest Divisor Given a Threshold
+2430. Maximum Deletions on a String
+845. Longest Mountain in Array
+968. Binary Tree Cameras
+1712. Ways to Split Array Into Three Subarrays
+1805. Number of Different Integers in a String
+664. Strange Printer
+1738. Find Kth Largest XOR Coordinate Value
+905. Sort Array By Parity
+282. Expression Add Operators
+1342. Number of Steps to Reduce a Number to Zero
+230. Kth Smallest Element in a BST
+387. First Unique Character in a String
+516. Longest Palindromic Subsequence
+430. Flatten a Multilevel Doubly Linked List
+1020. Number of Enclaves
+2321. Maximum Score Of Spliced Array
+911. Online Election
+906. Super Palindromes
+2146. K Highest Ranked Items Within a Price Range
+477. Total Hamming Distance
+2364. Count Number of Bad Pairs
+521. Longest Uncommon Subsequence I
+1598. Crawler Log Folder
+913. Cat and Mouse
+2022. Convert 1D Array Into 2D Array
+515. Find Largest Value in Each Tree Row
+2600. K Items With the Maximum Sum
+284. Peeking Iterator
+687. Longest Univalue Path
+1470. Shuffle the Array
+1296. Divide Array in Sets of K Consecutive Numbers
+184. Department Highest Salary
+295. Find Median from Data Stream
+888. Fair Candy Swap
+22. Generate Parentheses
+883. Projection Area of 3D Shapes
+155. Min Stack
+485. Max Consecutive Ones
+290. Word Pattern
+591. Tag Validator
+1240. Tiling a Rectangle with the Fewest Squares
+1508. Range Sum of Sorted Subarray Sums
+880. Decoded String at Index
+2318. Number of Distinct Roll Sequences
+2. Add Two Numbers
+1593. Split a String Into the Max Number of Unique Substrings
+2206. Divide Array Into Equal Pairs
+2605. Form Smallest Number From Two Digit Arrays
+335. Self Crossing
+1324. Print Words Vertically
+785. Is Graph Bipartite?
+1979. Find Greatest Common Divisor of Array
+462. Minimum Moves to Equal Array Elements II
+89. Gray Code
+324. Wiggle Sort II
+29. Divide Two Integers
+557. Reverse Words in a String III
+1742. Maximum Number of Balls in a Box
+511. Game Play Analysis I
+506. Relative Ranks
+668. Kth Smallest Number in Multiplication Table
+623. Add One Row to Tree
+2187. Minimum Time to Complete Trips
+2420. Find All Good Indices
+889. Construct Binary Tree from Preorder and Postorder Traversal
+2234. Maximum Total Beauty of the Gardens
+1745. Palindrome Partitioning IV
+585. Investments in 2016
+1869. Longer Contiguous Segments of Ones than Zeros
+2091. Removing Minimum and Maximum From Array
+1992. Find All Groups of Farmland
+1074. Number of Submatrices That Sum to Target
+1163. Last Substring in Lexicographical Order
+657. Robot Return to Origin
+882. Reachable Nodes In Subdivided Graph
+1312. Minimum Insertion Steps to Make a String Palindrome
+980. Unique Paths III
+1496. Path Crossing
+2221. Find Triangular Sum of an Array
+2570. Merge Two 2D Arrays by Summing Values
+2453. Destroy Sequential Targets
+207. Course Schedule
+689. Maximum Sum of 3 Non-Overlapping Subarrays
+201. Bitwise AND of Numbers Range
+417. Pacific Atlantic Water Flow
+1839. Longest Substring Of All Vowels in Order
+2589. Minimum Time to Complete All Tasks
+590. N-ary Tree Postorder Traversal
+1922. Count Good Numbers
+2379. Minimum Recolors to Get K Consecutive Black Blocks
+1520. Maximum Number of Non-Overlapping Substrings
+998. Maximum Binary Tree II
+1884. Egg Drop With 2 Eggs and N Floors
+950. Reveal Cards In Increasing Order
+300. Longest Increasing Subsequence
+1994. The Number of Good Subsets
+216. Combination Sum III
+2680. Maximum OR
+1319. Number of Operations to Make Network Connected
+726. Number of Atoms
+1557. Minimum Number of Vertices to Reach All Nodes
+204. Count Primes
+2357. Make Array Zero by Subtracting Equal Amounts
+866. Prime Palindrome
+853. Car Fleet
+2006. Count Number of Pairs With Absolute Difference K
+928. Minimize Malware Spread II
+1851. Minimum Interval to Include Each Query
+2286. Booking Concert Tickets in Groups
+171. Excel Sheet Column Number
+419. Battleships in a Board
+1061. Lexicographically Smallest Equivalent String
+6. Zigzag Conversion
+55. Jump Game
+1540. Can Convert String in K Moves
+432. All O`one Data Structure
+518. Coin Change II
+1344. Angle Between Hands of a Clock
+178. Rank Scores
+791. Custom Sort String
+2193. Minimum Number of Moves to Make Palindrome
+1158. Market Analysis I
+1534. Count Good Triplets
+1523. Count Odd Numbers in an Interval Range
+638. Shopping Offers
+401. Binary Watch
+67. Add Binary
+1160. Find Words That Can Be Formed by Characters
+313. Super Ugly Number
+2014. Longest Subsequence Repeated k Times
+57. Insert Interval
+1217. Minimum Cost to Move Chips to The Same Position
+2320. Count Number of Ways to Place Houses
+109. Convert Sorted List to Binary Search Tree
+1733. Minimum Number of People to Teach
+850. Rectangle Area II
+872. Leaf-Similar Trees
+2140. Solving Questions With Brainpower
+2434. Using a Robot to Print the Lexicographically Smallest String
+1915. Number of Wonderful Substrings
+1280. Students and Examinations
+479. Largest Palindrome Product
+2097. Valid Arrangement of Pairs
+2370. Longest Ideal Subsequence
+2213. Longest Substring of One Repeating Character
+136. Single Number
+1414. Find the Minimum Number of Fibonacci Numbers Whose Sum Is K
+861. Score After Flipping Matrix
+854. K-Similar Strings
+808. Soup Servings
+885. Spiral Matrix III
+2298. Tasks Count in the Weekend
+1553. Minimum Number of Days to Eat N Oranges
+2391. Minimum Amount of Time to Collect Garbage
+495. Teemo Attacking
+525. Contiguous Array
+321. Create Maximum Number
+1987. Number of Unique Good Subsequences
+652. Find Duplicate Subtrees
+857. Minimum Cost to Hire K Workers
+793. Preimage Size of Factorial Zeroes Function
+2303. Calculate Amount Paid in Taxes
+1315. Sum of Nodes with Even-Valued Grandparent
+1048. Longest String Chain
+661. Image Smoother
+967. Numbers With Same Consecutive Differences
+2439. Minimize Maximum of Array
+914. X of a Kind in a Deck of Cards
+2279. Maximum Bags With Full Capacity of Rocks
+1736. Latest Time by Replacing Hidden Digits
+165. Compare Version Numbers
+228. Summary Ranges
+2334. Subarray With Elements Greater Than Varying Threshold
+90. Subsets II
+217. Contains Duplicate
+671. Second Minimum Node In a Binary Tree
+1. Two Sum
+1946. Largest Number After Mutating Substring
+1985. Find the Kth Largest Integer in the Array
+546. Remove Boxes
+1921. Eliminate Maximum Number of Monsters
+2476. Closest Nodes Queries in a Binary Search Tree
+710. Random Pick with Blacklist
+962. Maximum Width Ramp
+1600. Throne Inheritance
+1036. Escape a Large Maze
+1706. Where Will the Ball Fall
+39. Combination Sum
+709. To Lower Case
+2564. Substring XOR Queries
+1855. Maximum Distance Between a Pair of Values
+780. Reaching Points
+2678. Number of Senior Citizens
+684. Redundant Connection
+814. Binary Tree Pruning
+1981. Minimize the Difference Between Target and Chosen Elements
+1400. Construct K Palindrome Strings
+2261. K Divisible Elements Subarrays
+71. Simplify Path
+2397. Maximum Rows Covered by Columns
+1879. Minimum XOR Sum of Two Arrays
+1211. Queries Quality and Percentage
+899. Orderly Queue
+104. Maximum Depth of Binary Tree
+744. Find Smallest Letter Greater Than Target
+2444. Count Subarrays With Fixed Bounds
+409. Longest Palindrome
+1744. Can You Eat Your Favorite Candy on Your Favorite Day?
+974. Subarray Sums Divisible by K
+2068. Check Whether Two Strings are Almost Equivalent
+1931. Painting a Grid With Three Different Colors
+415. Add Strings
+1192. Critical Connections in a Network
+1963. Minimum Number of Swaps to Make the String Balanced
+110. Balanced Binary Tree
+1450. Number of Students Doing Homework at a Given Time
+87. Scramble String
+1689. Partitioning Into Minimum Number Of Deci-Binary Numbers
+1978. Employees Whose Manager Left the Company
+2328. Number of Increasing Paths in a Grid
+76. Minimum Window Substring
+2573. Find the String with LCP
+108. Convert Sorted Array to Binary Search Tree
+1377. Frog Position After T Seconds
+1001. Grid Illumination
+1583. Count Unhappy Friends
+561. Array Partition
+2224. Minimum Number of Operations to Convert Time
+1050. Actors and Directors Who Cooperated At Least Three Times
+2685. Count the Number of Complete Components
+821. Shortest Distance to a Character
+1691. Maximum Height by Stacking Cuboids
+1530. Number of Good Leaf Nodes Pairs
+37. Sudoku Solver
+1751. Maximum Number of Events That Can Be Attended II
+2411. Smallest Subarrays With Maximum Bitwise OR
+2704. To Be Or Not To Be
+1404. Number of Steps to Reduce a Number in Binary Representation to One
+781. Rabbits in Forest
+1796. Second Largest Digit in a String
+383. Ransom Note
+795. Number of Subarrays with Bounded Maximum
+237. Delete Node in a Linked List
+2670. Find the Distinct Difference Array
+1010. Pairs of Songs With Total Durations Divisible by 60
+1518. Water Bottles
+2121. Intervals Between Identical Elements
+930. Binary Subarrays With Sum
+1814. Count Nice Pairs in an Array
+1877. Minimize Maximum Pair Sum in Array
+1527. Patients With a Condition
+2748. Number of Beautiful Pairs
+2147. Number of Ways to Divide a Long Corridor
+923. 3Sum With Multiplicity
+2290. Minimum Obstacle Removal to Reach Corner
+965. Univalued Binary Tree
+127. Word Ladder
+777. Swap Adjacent in LR String
+2054. Two Best Non-Overlapping Events
+698. Partition to K Equal Sum Subsets
+517. Super Washing Machines
+1452. People Whose List of Favorite Companies Is Not a Subset of Another List
+1078. Occurrences After Bigram
+2336. Smallest Number in Infinite Set
+1906. Minimum Absolute Difference Queries
+202. Happy Number
+797. All Paths From Source to Target
+2424. Longest Uploaded Prefix
+1301. Number of Paths with Max Score
+2711. Difference of Number of Distinct Values on Diagonals
+1887. Reduction Operations to Make the Array Elements Equal
+2095. Delete the Middle Node of a Linked List
+197. Rising Temperature
+1664. Ways to Make a Fair Array
+1957. Delete Characters to Make Fancy String
+2498. Frog Jump II
+1170. Compare Strings by Frequency of the Smallest Character
+381. Insert Delete GetRandom O(1) - Duplicates allowed
+436. Find Right Interval
+329. Longest Increasing Path in a Matrix
+1970. Last Day Where You Can Still Cross
+174. Dungeon Game
+172. Factorial Trailing Zeroes
+457. Circular Array Loop
+2266. Count Number of Texts
+507. Perfect Number
+198. House Robber
+365. Water and Jug Problem
+2418. Sort the People
+235. Lowest Common Ancestor of a Binary Search Tree
+2679. Sum in a Matrix
+2076. Process Restricted Friend Requests
+330. Patching Array
+630. Course Schedule III
+1559. Detect Cycles in 2D Grid
+95. Unique Binary Search Trees II
+1403. Minimum Subsequence in Non-Increasing Order
+969. Pancake Sorting
+2062. Count Vowel Substrings of a String
+1321. Restaurant Growth
+1362. Closest Divisors
+2658. Maximum Number of Fish in a Grid
+1781. Sum of Beauty of All Substrings
+299. Bulls and Cows
+592. Fraction Addition and Subtraction
+196. Delete Duplicate Emails
+2750. Ways to Split Array Into Good Subarrays
+2667. Create Hello World Function
+983. Minimum Cost For Tickets
+1761. Minimum Degree of a Connected Trio in a Graph
+1096. Brace Expansion II
+1310. XOR Queries of a Subarray
+2258. Escape the Spreading Fire
+2631. Group By
+1331. Rank Transform of an Array
+695. Max Area of Island
+2039. The Time When the Network Becomes Idle
+1862. Sum of Floored Pairs
+1039. Minimum Score Triangulation of Polygon
+132. Palindrome Partitioning II
+2030. Smallest K-Length Subsequence With Occurrences of a Letter
+670. Maximum Swap
+1399. Count Largest Group
+1816. Truncate Sentence
+2301. Match Substring After Replacement
+8. String to Integer (atoi)
+234. Palindrome Linked List
+2594. Minimum Time to Repair Cars
+2742. Painting the Walls
+541. Reverse String II
+1003. Check If Word Is Valid After Substitutions
+2262. Total Appeal of A String
+648. Replace Words
+215. Kth Largest Element in an Array
+538. Convert BST to Greater Tree
+1409. Queries on a Permutation With Key
+1936. Add Minimum Number of Rungs
+771. Jewels and Stones
+1661. Average Time of Process per Machine
+1046. Last Stone Weight
+2644. Find the Maximum Divisibility Score
+957. Prison Cells After N Days
+1054. Distant Barcodes
+1009. Complement of Base 10 Integer
+1871. Jump Game VII
+1162. As Far from Land as Possible
+357. Count Numbers with Unique Digits
+1547. Minimum Cost to Cut a Stick
+1186. Maximum Subarray Sum with One Deletion
+1828. Queries on Number of Points Inside a Circle
+964. Least Operators to Express Number
+2709. Greatest Common Divisor Traversal
+608. Tree Node
+2350. Shortest Impossible Sequence of Rolls
+475. Heaters
+2465. Number of Distinct Averages
+1818. Minimum Absolute Sum Difference
+954. Array of Doubled Pairs
+1551. Minimum Operations to Make Array Equal
+1237. Find Positive Integer Solution for a Given Equation
+2203. Minimum Weighted Subgraph With the Required Paths
+2733. Neither Minimum nor Maximum
+1697. Checking Existence of Edge Length Limited Paths
+1275. Find Winner on a Tic Tac Toe Game
+1568. Minimum Number of Days to Disconnect Island
+904. Fruit Into Baskets
+2352. Equal Row and Column Pairs
+863. All Nodes Distance K in Binary Tree
+1667. Fix Names in a Table
+1023. Camelcase Matching
+2188. Minimum Time to Finish the Race
+384. Shuffle an Array
+1690. Stone Game VII
+190. Reverse Bits
+2250. Count Number of Rectangles Containing Each Point
+611. Valid Triangle Number
+1943. Describe the Painting
+984. String Without AAA or BBB
+1006. Clumsy Factorial
+18. 4Sum
+1757. Recyclable and Low Fat Products
+539. Minimum Time Difference
+715. Range Module
+1514. Path with Maximum Probability
+2629. Function Composition
+926. Flip String to Monotone Increasing
+474. Ones and Zeroes
+1770. Maximum Score from Performing Multiplication Operations
+2245. Maximum Trailing Zeros in a Cornered Path
+1996. The Number of Weak Characters in the Game
+2363. Merge Similar Items
+887. Super Egg Drop
+1392. Longest Happy Prefix
+596. Classes More Than 5 Students
+2606. Find the Substring With Maximum Cost
+1558. Minimum Numbers of Function Calls to Make Target Array
+1795. Rearrange Products Table
+1727. Largest Submatrix With Rearrangements
+1261. Find Elements in a Contaminated Binary Tree
+1785. Minimum Elements to Add to Form a Given Sum
+1090. Largest Values From Labels
+1460. Make Two Arrays Equal by Reversing Subarrays
+692. Top K Frequent Words
+547. Number of Provinces
+604. Design Compressed String Iterator
+1898. Maximum Number of Removable Characters
+2092. Find All People With Secret
+501. Find Mode in Binary Search Tree
+697. Degree of an Array
+792. Number of Matching Subsequences
+2385. Amount of Time for Binary Tree to Be Infected
+1717. Maximum Score From Removing Substrings
+2622. Cache With Time Limit
+2172. Maximum AND Sum of Array
+903. Valid Permutations for DI Sequence
+799. Champagne Tower
+1371. Find the Longest Substring Containing Vowels in Even Counts
+2395. Find Subarrays With Equal Sum
+2285. Maximum Total Importance of Roads
+2410. Maximum Matching of Players With Trainers
+748. Shortest Completing Word
+1657. Determine if Two Strings Are Close
+803. Bricks Falling When Hit
+1893. Check if All the Integers in a Range Are Covered
+908. Smallest Range I
+1694. Reformat Phone Number
+2441. Largest Positive Integer That Exists With Its Negative
+1812. Determine Color of a Chessboard Square
+2684. Maximum Number of Moves in a Grid
+1510. Stone Game IV
+2438. Range Product Queries of Powers
+2715. Execute Cancellable Function With Delay
+1652. Defuse the Bomb
+1084. Sales Analysis III
+2556. Disconnect Path in a Binary Matrix by at Most One Flip
+194. Transpose File
+2442. Count Number of Distinct Integers After Reverse Operations
+1771. Maximize Palindrome Length From Subsequences
+2056. Number of Valid Move Combinations On Chessboard
+1567. Maximum Length of Subarray With Positive Product
+85. Maximal Rectangle
+1462. Course Schedule IV
+2155. All Divisions With the Highest Score of a Binary Array
+1395. Count Number of Teams
+2243. Calculate Digit Sum of a String
+826. Most Profit Assigning Work
+2081. Sum of k-Mirror Numbers
+2607. Make K-Subarray Sums Equal
+96. Unique Binary Search Trees
+472. Concatenated Words
+1894. Find the Student that Will Replace the Chalk
+2180. Count Integers With Even Digit Sum
+2038. Remove Colored Pieces if Both Neighbors are the Same Color
+1358. Number of Substrings Containing All Three Characters
+840. Magic Squares In Grid
+2138. Divide a String Into Groups of Size k
+2587. Rearrange Array to Maximize Prefix Score
+461. Hamming Distance
+542. 01 Matrix
+1875. Group Employees of the Same Salary
+2396. Strictly Palindromic Number
+2415. Reverse Odd Levels of Binary Tree
+1965. Employees With Missing Information
+722. Remove Comments
+1031. Maximum Sum of Two Non-Overlapping Subarrays
+1601. Maximum Number of Achievable Transfer Requests
+713. Subarray Product Less Than K
+535. Encode and Decode TinyURL
+1466. Reorder Routes to Make All Paths Lead to the City Zero
+1238. Circular Permutation in Binary Representation
+719. Find K-th Smallest Pair Distance
+421. Maximum XOR of Two Numbers in an Array
+2338. Count the Number of Ideal Arrays
+208. Implement Trie (Prefix Tree)
+819. Most Common Word
+2553. Separate the Digits in an Array
+1802. Maximum Value at a Given Index in a Bounded Array
+112. Path Sum
+2226. Maximum Candies Allocated to K Children
+975. Odd Even Jump
+1519. Number of Nodes in the Sub-Tree With the Same Label
+1035. Uncrossed Lines
+403. Frog Jump
+273. Integer to English Words
+139. Word Break
+1365. How Many Numbers Are Smaller Than the Current Number
+66. Plus One
+2341. Maximum Number of Pairs in Array
+1073. Adding Two Negabinary Numbers
+1372. Longest ZigZag Path in a Binary Tree
+972. Equal Rational Numbers
+2270. Number of Ways to Split Array
+802. Find Eventual Safe States
+1769. Minimum Number of Operations to Move All Balls to Each Box
+100. Same Tree
+1251. Average Selling Price
+2133. Check if Every Row and Column Contains All Numbers
+478. Generate Random Point in a Circle
+438. Find All Anagrams in a String
+193. Valid Phone Numbers
+917. Reverse Only Letters
+749. Contain Virus
+909. Snakes and Ladders
+2583. Kth Largest Sum in a Binary Tree
+1284. Minimum Number of Flips to Convert Binary Matrix to Zero Matrix
+1248. Count Number of Nice Subarrays
+1953. Maximum Number of Weeks for Which You Can Work
+2559. Count Vowel Strings in Ranges
+1581. Customer Who Visited but Did Not Make Any Transactions
+646. Maximum Length of Pair Chain
+397. Integer Replacement
+2156. Find Substring With Given Hash Value
+920. Number of Music Playlists
+1156. Swap For Longest Repeated Character Substring
+1223. Dice Roll Simulation
+2274. Maximum Consecutive Floors Without Special Floors
+2484. Count Palindromic Subsequences
+2078. Two Furthest Houses With Different Colors
+669. Trim a Binary Search Tree
+1449. Form Largest Integer With Digits That Add up to Target
+2241. Design an ATM Machine
+690. Employee Importance
+1447. Simplified Fractions
+152. Maximum Product Subarray
+907. Sum of Subarray Minimums
+2425. Bitwise XOR of All Pairings
+1325. Delete Leaves With a Given Value
+1224. Maximum Equal Frequency
+1948. Delete Duplicate Folders in System
+101. Symmetric Tree
+1002. Find Common Characters
+2416. Sum of Prefix Scores of Strings
+849. Maximize Distance to Closest Person
+368. Largest Divisible Subset
+1857. Largest Color Value in a Directed Graph
+1012. Numbers With Repeated Digits
+128. Longest Consecutive Sequence
+1276. Number of Burgers with No Waste of Ingredients
+326. Power of Three
+1947. Maximum Compatibility Score Sum
+2432. The Employee That Worked on the Longest Task
+99. Recover Binary Search Tree
+773. Sliding Puzzle
+70. Climbing Stairs
+2551. Put Marbles in Bags
+1968. Array With Elements Not Equal to Average of Neighbors
+113. Path Sum II
+1374. Generate a String With Characters That Have Odd Counts
+400. Nth Digit
+2162. Minimum Cost to Set Cooking Time
+1566. Detect Pattern of Length M Repeated K or More Times
+2293. Min Max Game
+1673. Find the Most Competitive Subsequence
+345. Reverse Vowels of a String
+2176. Count Equal and Divisible Pairs in an Array
+431. Encode N-ary Tree to Binary Tree
+2663. Lexicographically Smallest Beautiful String
+424. Longest Repeating Character Replacement
+242. Valid Anagram
+2466. Count Ways To Build Good Strings
+1025. Divisor Game
+2065. Maximum Path Quality of a Graph
+1328. Break a Palindrome
+2459. Sort Array by Moving Items to Empty Space
+551. Student Attendance Record I
+1544. Make The String Great
+2160. Minimum Sum of Four Digit Number After Splitting Digits
+1263. Minimum Moves to Move a Box to Their Target Location
+1935. Maximum Number of Words You Can Type
+1230. Toss Strange Coins
+1299. Replace Elements with Greatest Element on Right Side
+1556. Thousand Separator
+2063. Vowels of All Substrings
+1397. Find All Good Strings
+1764. Form Array by Concatenating Subarrays of Another Array
+1719. Number Of Ways To Reconstruct A Tree
+1932. Merge BSTs to Create Single BST
+654. Maximum Binary Tree
+2608. Shortest Cycle in a Graph
+807. Max Increase to Keep City Skyline
+119. Pascal's Triangle II
+1916. Count Ways to Build Rooms in an Ant Colony
+62. Unique Paths
+2696. Minimum String Length After Removing Substrings
+879. Profitable Schemes
+856. Score of Parentheses
+1165. Single-Row Keyboard
+564. Find the Closest Palindrome
+1587. Bank Account Summary II
+649. Dota2 Senate
+2035. Partition Array Into Two Arrays to Minimize Sum Difference
+2426. Number of Pairs Satisfying Inequality
+2431. Maximize Total Tastiness of Purchased Fruits
+1930. Unique Length-3 Palindromic Subsequences
+2642. Design Graph With Shortest Path Calculator
+1169. Invalid Transactions
+1226. The Dining Philosophers
+1289. Minimum Falling Path Sum II
+1382. Balance a Binary Search Tree
+402. Remove K Digits
+1549. The Most Recent Orders for Each Product
+865. Smallest Subtree with all the Deepest Nodes
+2202. Maximize the Topmost Element After K Moves
+2429. Minimize XOR
+2071. Maximum Number of Tasks You Can Assign
+231. Power of Two
+2055. Plates Between Candles
+2033. Minimum Operations to Make a Uni-Value Grid
+875. Koko Eating Bananas
+1993. Operations on Tree
+943. Find the Shortest Superstring
+239. Sliding Window Maximum
+1654. Minimum Jumps to Reach Home
+332. Reconstruct Itinerary
+1255. Maximum Score Words Formed by Letters
+1856. Maximum Subarray Min-Product
+213. House Robber II
+1419. Minimum Number of Frogs Croaking
+1268. Search Suggestions System
+483. Smallest Good Base
+182. Duplicate Emails
+1075. Project Employees I
+757. Set Intersection Size At Least Two
+2744. Find Maximum Number of String Pairs
+84. Largest Rectangle in Histogram
+1423. Maximum Points You Can Obtain from Cards
+745. Prefix and Suffix Search
+1038. Binary Search Tree to Greater Sum Tree
+1478. Allocate Mailboxes
+589. N-ary Tree Preorder Traversal
+1798. Maximum Number of Consecutive Values You Can Make
+2240. Number of Ways to Buy Pens and Pencils
+444. Sequence Reconstruction
+796. Rotate String
+2554. Maximum Number of Integers to Choose From a Range I
+1401. Circle and Rectangle Overlapping
+1330. Reverse Subarray To Maximize Array Value
+1195. Fizz Buzz Multithreaded
+14. Longest Common Prefix
+756. Pyramid Transition Matrix
+832. Flipping an Image
+1176. Diet Plan Performance
+2256. Minimum Average Difference
+982. Triples with Bitwise AND Equal To Zero
+767. Reorganize String
+609. Find Duplicate File in System
+1959. Minimum Total Space Wasted With K Resizing Operations
+989. Add to Array-Form of Integer
+1004. Max Consecutive Ones III
+2481. Minimum Cuts to Divide a Circle
+2074. Reverse Nodes in Even Length Groups
+2210. Count Hills and Valleys in an Array
+1024. Video Stitching
+666. Path Sum IV
+59. Spiral Matrix II
+2749. Minimum Operations to Make the Integer Zero
+1934. Confirmation Rate
+218. The Skyline Problem
+1154. Day of the Year
+142. Linked List Cycle II
+2002. Maximum Product of the Length of Two Palindromic Subsequences
+2089. Find Target Indices After Sorting Array
+2624. Snail Traversal
+1484. Group Sold Products By The Date
+894. All Possible Full Binary Trees
+175. Combine Two Tables
+1901. Find a Peak Element II
+2584. Split the Array to Make Coprime Products
+1218. Longest Arithmetic Subsequence of Given Difference
+373. Find K Pairs with Smallest Sums
+1249. Minimum Remove to Make Valid Parentheses
+2347. Best Poker Hand
+1185. Day of the Week
+10. Regular Expression Matching
+2698. Find the Punishment Number of an Integer
+1359. Count All Valid Pickup and Delivery Options
+1343. Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold
+2289. Steps to Make Array Non-decreasing
+2337. Move Pieces to Obtain a String
+2012. Sum of Beauty in the Array
+944. Delete Columns to Make Sorted
+1316. Distinct Echo Substrings
+75. Sort Colors
+1662. Check If Two String Arrays are Equivalent
+1590. Make Sum Divisible by P
+2356. Number of Unique Subjects Taught by Each Teacher
+2016. Maximum Difference Between Increasing Elements
+179. Largest Number
+2163. Minimum Difference in Sums After Removal of Elements
+662. Maximum Width of Binary Tree
+2135. Count Words Obtained After Adding a Letter
+2627. Debounce
+576. Out of Boundary Paths
+1735. Count Ways to Make Array With Product
+1239. Maximum Length of a Concatenated String with Unique Characters
+304. Range Sum Query 2D - Immutable
+594. Longest Harmonious Subsequence
+1207. Unique Number of Occurrences
+916. Word Subsets
+2597. The Number of Beautiful Subsets
+1486. XOR Operation in an Array
+915. Partition Array into Disjoint Intervals
+106. Construct Binary Tree from Inorder and Postorder Traversal
+1575. Count All Possible Routes
+2593. Find Score of an Array After Marking All Elements
+2161. Partition Array According to Given Pivot
+1954. Minimum Garden Perimeter to Collect Enough Apples
+868. Binary Gap
+161. One Edit Distance
+2598. Smallest Missing Non-negative Integer After Operations
+1842. Next Palindrome Using Same Digits
+1722. Minimize Hamming Distance After Swap Operations
+2186. Minimum Number of Steps to Make Two Strings Anagram II
+1379. Find a Corresponding Node of a Binary Tree in a Clone of That Tree
+1825. Finding MK Average
+729. My Calendar I
+598. Range Addition II
+873. Length of Longest Fibonacci Subsequence
+2740. Find the Value of the Partition
+298. Binary Tree Longest Consecutive Sequence
+1892. Page Recommendations II
+2296. Design a Text Editor
+678. Valid Parenthesis String
+676. Implement Magic Dictionary
+833. Find And Replace in String
+2150. Find All Lonely Numbers in the Array
+2317. Maximum XOR After Operations
+862. Shortest Subarray with Sum at Least K
+2637. Promise Time Limit
+2018. Check if Word Can Be Placed In Crossword
+1005. Maximize Sum Of Array After K Negations
+1412. Find the Quiet Students in All Exams
+354. Russian Doll Envelopes
+331. Verify Preorder Serialization of a Binary Tree
+622. Design Circular Queue
+587. Erect the Fence
+996. Number of Squareful Arrays
+919. Complete Binary Tree Inserter
+486. Predict the Winner
+1767. Find the Subtasks That Did Not Execute
+187. Repeated DNA Sequences
+2458. Height of Binary Tree After Subtree Removal Queries
+1408. String Matching in an Array
+2595. Number of Even and Odd Bits
+1471. The k Strongest Values in an Array
+2656. Maximum Sum With Exactly K Elements
+2574. Left and Right Sum Differences
+1599. Maximum Profit of Operating a Centennial Wheel
+2569. Handling Sum Queries After Update
+2558. Take Gifts From the Richest Pile
+135. Candy
+877. Stone Game
+1974. Minimum Time to Type Word Using Special Typewriter
+2389. Longest Subsequence With Limited Sum
+940. Distinct Subsequences II
+1341. Movie Rating
+1293. Shortest Path in a Grid with Obstacles Elimination
+147. Insertion Sort List
+987. Vertical Order Traversal of a Binary Tree
+1997. First Day Where You Have Been in All the Rooms
+74. Search a 2D Matrix
+2414. Length of the Longest Alphabetical Continuous Substring
+413. Arithmetic Slices
+1695. Maximum Erasure Value
+111. Minimum Depth of Binary Tree
+2158. Amount of New Area Painted Each Day
+2555. Maximize Win From Two Segments
+289. Game of Life
+925. Long Pressed Name
+794. Valid Tic-Tac-Toe State
+2612. Minimum Reverse Operations
+1376. Time Needed to Inform All Employees
+223. Rectangle Area
+2713. Maximum Strictly Increasing Cells in a Matrix
+621. Task Scheduler
+743. Network Delay Time
+275. H-Index II
+1718. Construct the Lexicographically Largest Valid Sequence
+44. Wildcard Matching
+1313. Decompress Run-Length Encoded List
+2365. Task Scheduler II
+1787. Make the XOR of All Segments Equal to Zero
+2730. Find the Longest Semi-Repetitive Substring
+121. Best Time to Buy and Sell Stock
+1866. Number of Ways to Rearrange Sticks With K Sticks Visible
+1477. Find Two Non-overlapping Sub-arrays Each With Target Sum
+19. Remove Nth Node From End of List
+1726. Tuple with Same Product
+1687. Delivering Boxes from Storage to Ports
+1876. Substrings of Size Three with Distinct Characters
+1071. Greatest Common Divisor of Strings
+995. Minimum Number of K Consecutive Bit Flips
+1174. Immediate Food Delivery II
+1904. The Number of Full Rounds You Have Played
+2552. Count Increasing Quadruplets
+236. Lowest Common Ancestor of a Binary Tree
+2103. Rings and Rods
+2049. Count Nodes With the Highest Score
+994. Rotting Oranges
+2483. Minimum Penalty for a Shop
+886. Possible Bipartition
+2255. Count Prefixes of a Given String
+257. Binary Tree Paths
+2588. Count the Number of Beautiful Subarrays
+2462. Total Cost to Hire K Workers
+2585. Number of Ways to Earn Points
+1890. The Latest Login in 2020
+2596. Check Knight Tour Configuration
+522. Longest Uncommon Subsequence II
+941. Valid Mountain Array
+2703. Return Length of Arguments Passed
+2126. Destroying Asteroids
+1380. Lucky Numbers in a Matrix
+816. Ambiguous Coordinates
+1270. All People Report to the Given Manager
+1923. Longest Common Subpath
+1692. Count Ways to Distribute Candies
+1572. Matrix Diagonal Sum
+2232. Minimize Result by Adding Parentheses to Expression
+1889. Minimum Space Wasted From Packaging
+2132. Stamping the Grid
+1221. Split a String in Balanced Strings
+2413. Smallest Even Multiple
+2059. Minimum Operations to Convert Number
+34. Find First and Last Position of Element in Sorted Array
+970. Powerful Integers
+2335. Minimum Amount of Time to Fill Cups
+1533. Find the Index of the Large Integer
+49. Group Anagrams
+696. Count Binary Substrings
+1960. Maximum Product of the Length of Two Palindromic Substrings
+812. Largest Triangle Area
+1873. Calculate Special Bonus
+860. Lemonade Change
+810. Chalkboard XOR Game
+2025. Maximum Number of Ways to Partition an Array
+206. Reverse Linked List
+2294. Partition Array Such That Maximum Difference Is K
+227. Basic Calculator II
+1368. Minimum Cost to Make at Least One Valid Path in a Grid
+720. Longest Word in Dictionary
+1799. Maximize Score After N Operations
+1089. Duplicate Zeros
+747. Largest Number At Least Twice of Others
+2111. Minimum Operations to Make the Array K-Increasing
+2560. House Robber IV
+1042. Flower Planting With No Adjacent
+867. Transpose Matrix
+567. Permutation in String
+2721. Execute Asynchronous Functions in Parallel
+2617. Minimum Number of Visited Cells in a Grid
+805. Split Array With Same Average
+2008. Maximum Earnings From Taxi
+1668. Maximum Repeating Substring
+1878. Get Biggest Three Rhombus Sums in a Grid
+2566. Maximum Difference by Remapping a Digit
+117. Populating Next Right Pointers in Each Node II
+91. Decode Ways
+2643. Row With Maximum Ones
+1700. Number of Students Unable to Eat Lunch
+2565. Subsequence With the Minimum Score
+2194. Cells in a Range on an Excel Sheet
+453. Minimum Moves to Equal Array Elements
+2246. Longest Path With Different Adjacent Characters
+2302. Count Subarrays With Score Less Than K
+2312. Selling Pieces of Wood
+2276. Count Integers in Intervals
+1707. Maximum XOR With an Element From Array
+629. K Inverse Pairs Array
+1022. Sum of Root To Leaf Binary Numbers
+1356. Sort Integers by The Number of 1 Bits
+343. Integer Break
+1190. Reverse Substrings Between Each Pair of Parentheses
+2323. Find Minimum Time to Finish All Jobs II
+1937. Maximum Number of Points with Cost
+1539. Kth Missing Positive Number
+2456. Most Popular Video Creator
+2635. Apply Transform Over Each Element in Array
+2332. The Latest Time to Catch a Bus
+650. 2 Keys Keyboard
+1391. Check if There is a Valid Path in a Grid
+818. Race Car
+1215. Stepping Numbers
+2463. Minimum Total Distance Traveled
+327. Count of Range Sum
+305. Number of Islands II
+2706. Buy Two Chocolates
+2106. Maximum Fruits Harvested After at Most K Steps
+1832. Check if the Sentence Is Pangram
+1295. Find Numbers with Even Number of Digits
+1569. Number of Ways to Reorder Array to Get Same BST
+260. Single Number III
+949. Largest Time for Given Digits
+1417. Reformat The String
+1910. Remove All Occurrences of a Substring
+1187. Make Array Strictly Increasing
+2299. Strong Password Checker II
+1883. Minimum Skips to Arrive at Meeting On Time
+1346. Check If N and Its Double Exist
+114. Flatten Binary Tree to Linked List
+2037. Minimum Number of Moves to Seat Everyone
+1863. Sum of All Subset XOR Totals
+435. Non-overlapping Intervals
+429. N-ary Tree Level Order Traversal
+778. Swim in Rising Water
+42. Trapping Rain Water
+1269. Number of Ways to Stay in the Same Place After Some Steps
+2745. Construct the Longest New String
+1838. Frequency of the Most Frequent Element
+990. Satisfiability of Equality Equations
+195. Tenth Line
+607. Sales Person
+232. Implement Queue using Stacks
+1734. Decode XORed Permutation
+1434. Number of Ways to Wear Different Hats to Each Other
+1938. Maximum Genetic Difference Query
+65. Valid Number
+1815. Maximum Number of Groups Getting Fresh Donuts
+1909. Remove One Element to Make the Array Strictly Increasing
+1032. Stream of Characters
+1482. Minimum Number of Days to Make m Bouquets
+2681. Power of Heroes
+2601. Prime Subtraction Operation
+2183. Count Array Pairs Divisible by K
+513. Find Bottom Left Tree Value
+2651. Calculate Delayed Arrival Time
+1998. GCD Sort of an Array
+15. 3Sum
+2105. Watering Plants II
+2367. Number of Arithmetic Triplets
+467. Unique Substrings in Wraparound String
+1483. Kth Ancestor of a Tree Node
+1233. Remove Sub-Folders from the Filesystem
+144. Binary Tree Preorder Traversal
+1329. Sort the Matrix Diagonally
+1288. Remove Covered Intervals
+739. Daily Temperatures
+2042. Check if Numbers Are Ascending in a Sentence
+677. Map Sum Pairs
+2104. Sum of Subarray Ranges
+992. Subarrays with K Different Integers
+1014. Best Sightseeing Pair
+1528. Shuffle String
+283. Move Zeroes
+2034. Stock Price Fluctuation
+1297. Maximum Number of Occurrences of a Substring
+828. Count Unique Characters of All Substrings of a Given String
+4. Median of Two Sorted Arrays
+583. Delete Operation for Two Strings
+572. Subtree of Another Tree
+494. Target Sum
+700. Search in a Binary Search Tree
+1562. Find Latest Group of Size M
+2693. Call Function with Custom Context
+1835. Find XOR Sum of All Pairs Bitwise AND
+20. Valid Parentheses
+1494. Parallel Courses II
+2712. Minimum Cost to Make All Characters Equal
+46. Permutations
+2472. Maximum Number of Non-overlapping Palindrome Substrings
+1576. Replace All ?'s to Avoid Consecutive Repeating Characters
+2661. First Completely Painted Row or Column
+1209. Remove All Adjacent Duplicates in String II
+599. Minimum Index Sum of Two Lists
+1696. Jump Game VI
+2130. Maximum Twin Sum of a Linked List
+788. Rotated Digits
+878. Nth Magical Number
+986. Interval List Intersections
+1752. Check if Array Is Sorted and Rotated
+388. Longest Absolute File Path
+2050. Parallel Courses III
+1393. Capital Gain/Loss
+1860. Incremental Memory Leak
+1789. Primary Department for Each Employee
+2251. Number of Flowers in Full Bloom
+2419. Longest Subarray With Maximum Bitwise AND
+2119. A Number After a Double Reversal
+1385. Find the Distance Value Between Two Arrays
+1208. Get Equal Substrings Within Budget
+2435. Paths in Matrix Whose Sum Is Divisible by K
+895. Maximum Frequency Stack
+1521. Find a Value of a Mysterious Function Closest to Target
+2217. Find Palindrome With Fixed Length
+775. Global and Local Inversions
+553. Optimal Division
+736. Parse Lisp Expression
+2475. Number of Unequal Triplets in Array
+350. Intersection of Two Arrays II
+864. Shortest Path to Get All Keys
+2409. Count Days Spent Together
+2421. Number of Good Paths
+2311. Longest Binary Subsequence Less Than or Equal to K
+2231. Largest Number After Digit Swaps by Parity
+1967. Number of Strings That Appear as Substrings in Word
+2672. Number of Adjacent Elements With the Same Color
+836. Rectangle Overlap
+641. Design Circular Deque
+2057. Smallest Index With Equal Value
+1588. Sum of All Odd Length Subarrays
+123. Best Time to Buy and Sell Stock III
+2717. Semi-Ordered Permutation
+138. Copy List with Random Pointer
+1453. Maximum Number of Darts Inside of a Circular Dartboard
+824. Goat Latin
+1282. Group the People Given the Group Size They Belong To
+1093. Statistics from a Large Sample
+896. Monotonic Array
+1665. Minimum Initial Energy to Finish Tasks
+2747. Count Zero Request Servers
+2455. Average Value of Even Numbers That Are Divisible by Three
+1670. Design Front Middle Back Queue
+827. Making A Large Island
+2209. Minimum White Tiles After Covering With Carpets
+763. Partition Labels
+2634. Filter Elements from Array
+1425. Constrained Subsequence Sum
+481. Magical String
+389. Find the Difference
+1861. Rotating the Box
+1327. List the Products Ordered in a Period
+900. RLE Iterator
+80. Remove Duplicates from Sorted Array II
+1503. Last Moment Before All Ants Fall Out of a Plank
+901. Online Stock Span
+205. Isomorphic Strings
+945. Minimum Increment to Make Array Unique
+674. Longest Continuous Increasing Subsequence
+1437. Check If All 1's Are at Least Length K Places Away
+637. Average of Levels in Binary Tree
+441. Arranging Coins
+1912. Design Movie Rental System
+1018. Binary Prefix Divisible By 5
+2257. Count Unguarded Cells in the Grid
+2218. Maximum Value of K Coins From Piles
+35. Search Insert Position
+1017. Convert to Base -2
+1822. Sign of the Product of an Array
+1541. Minimum Insertions to Balance a Parentheses String
+1725. Number Of Rectangles That Can Form The Largest Square
+2125. Number of Laser Beams in a Bank
+1561. Maximum Number of Coins You Can Get
+307. Range Sum Query - Mutable
+2028. Find Missing Observations
+2735. Collecting Chocolates
+2208. Minimum Operations to Halve Array Sum
+2572. Count the Number of Square-Free Subsets
+1945. Sum of Digits of String After Convert
+240. Search a 2D Matrix II
+1846. Maximum Element After Decreasing and Rearranging
+1200. Minimum Absolute Difference
+1817. Finding the Users Active Minutes
+1589. Maximum Sum Obtained of Any Permutation
+1594. Maximum Non Negative Product in a Matrix
+2306. Naming a Company
+133. Clone Graph
+898. Bitwise ORs of Subarrays
+2630. Memoize II
+2272. Substring With Largest Variance
+1790. Check if One String Swap Can Make Strings Equal
+2579. Count Total Number of Colored Cells
+1235. Maximum Profit in Job Scheduling
+1286. Iterator for Combination
+1716. Calculate Money in Leetcode Bank
+1584. Min Cost to Connect All Points
+1247. Minimum Swaps to Make Strings Equal
+2181. Merge Nodes in Between Zeros
+2603. Collect Coins in a Tree
+1763. Longest Nice Substring
+2354. Number of Excellent Pairs
+2427. Number of Common Factors
+610. Triangle Judgement
+1765. Map of Highest Peak
+2402. Meeting Rooms III
+1451. Rearrange Words in a Sentence
+1913. Maximum Product Difference Between Two Pairs
+169. Majority Element
+2007. Find Original Array From Doubled Array
+1900. The Earliest and Latest Rounds Where Players Compete
+54. Spiral Matrix
+550. Game Play Analysis IV
+2117. Abbreviating the Product of a Range
+1277. Count Square Submatrices with All Ones
+2443. Sum of Number and Its Reverse
+672. Bulb Switcher II
+1254. Number of Closed Islands
+1655. Distribute Repeating Integers
+815. Bus Routes
+1298. Maximum Candies You Can Get from Boxes
+1872. Stone Game VIII
+382. Linked List Random Node
+963. Minimum Area Rectangle II
+1375. Number of Times Binary String Is Prefix-Aligned
+125. Valid Palindrome
+2386. Find the K-Sum of an Array
+1052. Grumpy Bookstore Owner
+2166. Design Bitset
+226. Invert Binary Tree
+929. Unique Email Addresses
+556. Next Greater Element III
+701. Insert into a Binary Search Tree
+1081. Smallest Subsequence of Distinct Characters
+2239. Find Closest Number to Zero
+2096. Step-By-Step Directions From a Binary Tree Node to Another
+647. Palindromic Substrings
+1942. The Number of the Smallest Unoccupied Chair
+115. Distinct Subsequences
+498. Diagonal Traverse
+189. Rotate Array
+2671. Frequency Tracker
+1807. Evaluate the Bracket Pairs of a String
+981. Time Based Key-Value Store
+1509. Minimum Difference Between Largest and Smallest Value in Three Moves
+2448. Minimum Cost to Make Array Equal
+60. Permutation Sequence
+1760. Minimum Limit of Balls in a Bag
+595. Big Countries
+1903. Largest Odd Number in String
+1439. Find the Kth Smallest Sum of a Matrix With Sorted Rows
+2577. Minimum Time to Visit a Cell In a Grid
+454. 4Sum II
+1537. Get the Maximum Score
+2342. Max Sum of a Pair With Equal Sum of Digits
+1702. Maximum Binary String After Change
+1980. Find Unique Binary String
+786. K-th Smallest Prime Fraction
+53. Maximum Subarray
+2374. Node With Highest Edge Score
+1320. Minimum Distance to Type a Word Using Two Fingers
+1317. Convert Integer to the Sum of Two No-Zero Integers
+528. Random Pick with Weight
+988. Smallest String Starting From Leaf
+2236. Root Equals Sum of Children
+2485. Find the Pivot Integer
+2087. Minimum Cost Homecoming of a Robot in a Grid
+2116. Check if a Parentheses String Can Be Valid
+1504. Count Submatrices With All Ones
+524. Longest Word in Dictionary through Deleting
+1536. Minimum Swaps to Arrange a Binary Grid
+185. Department Top Three Salaries
+753. Cracking the Safe
+801. Minimum Swaps To Make Sequences Increasing
+1363. Largest Multiple of Three
+2165. Smallest Value of the Rearranged Number
+2571. Minimum Operations to Reduce an Integer to 0
+859. Buddy Strings
+355. Design Twitter
+848. Shifting Letters
+1801. Number of Orders in the Backlog
+782. Transform to Chessboard
+577. Employee Bonus
+375. Guess Number Higher or Lower II
+1464. Maximum Product of Two Elements in an Array
+342. Power of Four
+1859. Sorting the Sentence
+2069. Walking Robot Simulation II
+2044. Count Number of Maximum Bitwise-OR Subsets
+149. Max Points on a Line
+25. Reverse Nodes in k-Group
+2373. Largest Local Values in a Matrix
+892. Surface Area of 3D Shapes
+1837. Sum of Digits in Base K
+349. Intersection of Two Arrays
+33. Search in Rotated Sorted Array
+869. Reordered Power of 2
+1306. Jump Game III
+209. Minimum Size Subarray Sum
+192. Word Frequency
+334. Increasing Triplet Subsequence
+2731. Movement of Robots
+1456. Maximum Number of Vowels in a Substring of Given Length
+1774. Closest Dessert Cost
+83. Remove Duplicates from Sorted List
+2592. Maximize Greatness of an Array
+122. Best Time to Buy and Sell Stock II
+2591. Distribute Money to Maximum Children
+264. Ugly Number II
+1034. Coloring A Border
+2169. Count Operations to Obtain Zero
+1222. Queens That Can Attack the King
+565. Array Nesting
+955. Delete Columns to Make Sorted II
+2235. Add Two Integers
+1019. Next Greater Node In Linked List
+1309. Decrypt String from Alphabet to Integer Mapping
+107. Binary Tree Level Order Traversal II
+2469. Convert the Temperature
+1488. Avoid Flood in The City
+912. Sort an Array
+1487. Making File Names Unique
+2468. Split Message Based on Limit
+823. Binary Trees With Factors
+1406. Stone Game III
+1592. Rearrange Spaces Between Words
+2705. Compact Object
+1432. Max Difference You Can Get From Changing an Integer
+2451. Odd String Difference
+458. Poor Pigs
+951. Flip Equivalent Binary Trees
+1792. Maximum Average Pass Ratio
+1800. Maximum Ascending Subarray Sum
+2563. Count the Number of Fair Pairs
+1693. Daily Leads and Partners
+1455. Check If a Word Occurs As a Prefix of Any Word in a Sentence
+1287. Element Appearing More Than 25% In Sorted Array
+2267. Check if There Is a Valid Parentheses String Path
+1253. Reconstruct a 2-Row Binary Matrix
+1041. Robot Bounded In Circle
+2177. Find Three Consecutive Integers That Sum to a Given Number
+2304. Minimum Path Cost in a Grid
+1659. Maximize Grid Happiness
+852. Peak Index in a Mountain Array
+2029. Stone Game IX
+1092. Shortest Common Supersequence
+1260. Shift 2D Grid
+2197. Replace Non-Coprime Numbers in Array
+554. Brick Wall
+897. Increasing Order Search Tree
+2273. Find Resultant Array After Removing Anagrams
+2151. Maximum Good People Based on Statements
+1766. Tree of Coprimes
+523. Continuous Subarray Sum
+2064. Minimized Maximum of Products Distributed to Any Store
+2090. K Radius Subarray Averages
+632. Smallest Range Covering Elements from K Lists
+831. Masking Personal Information
+116. Populating Next Right Pointers in Each Node
+1591. Strange Printer II
+167. Two Sum II - Input Array Is Sorted
+1499. Max Value of Equation
+1155. Number of Dice Rolls With Target Sum
+214. Shortest Palindrome
+1929. Concatenation of Array
+1749. Maximum Absolute Sum of Any Subarray
+761. Special Binary String
+2366. Minimum Replacements to Sort the Array
+1232. Check If It Is a Straight Line
+315. Count of Smaller Numbers After Self
+2295. Replace Elements in an Array
+1337. The K Weakest Rows in a Matrix
+181. Employees Earning More Than Their Managers
+2398. Maximum Number of Robots Within Budget
+2215. Find the Difference of Two Arrays
+606. Construct String from Binary Tree
+488. Zuma Game
+1731. The Number of Employees Which Report to Each Employee
+770. Basic Calculator IV
+2621. Sleep
+1413. Minimum Value to Get Positive Step by Step Sum
+1971. Find if Path Exists in Graph
+960. Delete Columns to Make Sorted III
+1517. Find Users With Valid E-Mails
+129. Sum Root to Leaf Numbers
+2011. Final Value of Variable After Performing Operations
+2359. Find Closest Node to Given Two Nodes
+746. Min Cost Climbing Stairs
+31. Next Permutation
+1040. Moving Stones Until Consecutive II
+1905. Count Sub Islands
+2460. Apply Operations to an Array
+769. Max Chunks To Make Sorted
+1171. Remove Zero Sum Consecutive Nodes from Linked List
+2001. Number of Pairs of Interchangeable Rectangles
+1925. Count Square Sum Triples
+893. Groups of Special-Equivalent Strings
+27. Remove Element
+2611. Mice and Cheese
+58. Length of Last Word
+2575. Find the Divisibility Array of a String
+146. LRU Cache
+1962. Remove Stones to Minimize the Total
+1492. The kth Factor of n
+1444. Number of Ways of Cutting a Pizza
+2145. Count the Hidden Sequences
+241. Different Ways to Add Parentheses
+938. Range Sum of BST
+1847. Closest Room
+2381. Shifting Letters II
+2170. Minimum Operations to Make the Array Alternating
+2000. Reverse Prefix of Word
+1305. All Elements in Two Binary Search Trees
